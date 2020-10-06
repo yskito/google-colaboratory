@@ -1,9 +1,7 @@
-### google-colaboratory
----
-
+### What is this repository?
+This repository has codes and files by google colaboratory.
 Almost all files are copied from google drive.  
-A Basic language is R.
+A basic language is R.
 
-
-2020/07/21/23:45  
-Now, I've just changed the local environment.
+### Update
+2020/10/06/23:45  
